@@ -35,7 +35,7 @@
 ###
 
 <div align="left">
-  <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" height="30" alt="powerbi logo" />
+  <img src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Power-BI-Symbol-700x394.png" height="30" alt="powerbi logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
   <img width="12" />
