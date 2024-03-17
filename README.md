@@ -45,11 +45,17 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="apachekafka logo"  />
+  <img src="https://codefactorygroup.com/case-studies/wp-content/uploads/2021/05/apache-kafka-1110x550.png" height="40" alt="apachekafka logo"  />
+  <img width="12" />
+  <img src="https://www.getdbt.com/ui/img/logos/dbt-logo.svg" height="40" alt="dbt logo"/>  
+  <img width="12" />
+  <img src="https://companieslogo.com/img/orig/SNOW-35164165.png?t=1634190631" height="40" alt="snowflake logo"/>
+  <img width="12" />
+  <img src="https://images.peerspot.com/image/upload/c_scale,f_auto,q_auto,w_100/xefy55iaja8nf2uucmize7020qc8.png" height="40" alt="databricks logo"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
   <img width="12" />
