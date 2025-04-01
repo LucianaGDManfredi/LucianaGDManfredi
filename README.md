@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Luciana!<br><br>- 🔭 I’m working as a Senior Data Analyst with more than 12 years of experience.<br>- 📚 I'm currently learning Data Science - Python and ML<br>- ⚡ In my free time I cherish to stroll with my family<br> - :email: You can reach me at lucianadiasmanfredi@gmail.com </p>
+<p align="left">I'm Luciana!<br><br>- 🔭 I’m working as a Senior Data Analyst.<br>- 📚 I'm currently learning Data Science - Python and ML<br>- ⚡ In my free time I cherish to stroll with my family<br> - :email: You can reach me at lucianadiasmanfredi@gmail.com </p>
 
 ###
 
