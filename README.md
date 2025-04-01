@@ -51,7 +51,7 @@
   <img width="12" />
   <img src="https://codefactorygroup.com/case-studies/wp-content/uploads/2021/05/apache-kafka-1110x550.png" height="40" alt="apachekafka logo"  />
   <img width="12" />
-  <img src="https://www.getdbt.com/ui/img/logos/dbt-logo.svg" height="40" alt="dbt logo"/>  
+  <img src="https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2150924588/settings_images/0cTTnZQqymnF8qgKYy2g_dbt-logo.png" height="40" alt="dbt logo"/>  
   <img width="12" />
   <img src="https://companieslogo.com/img/orig/SNOW-35164165.png?t=1634190631" height="40" alt="snowflake logo"/>
   <img width="12" />
